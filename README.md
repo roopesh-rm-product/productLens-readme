@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="images\productlensLogo.png" alt="ProductLens Logo" width="120" />
   <h2>ProductLens</h2>
@@ -519,3 +520,7 @@ Access is provided only for authorized contribution purposes.
   <p>Made with ❤️ for the QA & Product Community</p>
   <p><sub>Designed and Developed by Roopesh Ramakanth</sub></p>
 </div>
+=======
+# productLens-readme
+Readme file for productlens repo.
+>>>>>>> a1665611a576063fff5176c1167ba831f3700abf
