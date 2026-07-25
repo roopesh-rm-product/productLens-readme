@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images\productlensLogo.png" alt="ProductLens Logo" width="120" />
   <h2>ProductLens</h2>
-  <p><strong>AI-Powered Product Understanding & Decision Engine</strong></p>
+  <p><strong>AI-Powered Product Intelligent Platform</strong></p>
 
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
